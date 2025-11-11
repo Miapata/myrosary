@@ -32,3 +32,8 @@ Thumbs.db
 # Logs or temporary files
 *.log
 *.tmp
+
+myrosary-1.0.0-1-any.pkg.tar.zst
+
+pkg/
+src/
