@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+
+# Environment files
+*.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.tar.gz
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# Editor/project files
+.vscode/
+.idea/
+*.swp
+
+# Logs or temporary files
+*.log
+*.tmp
